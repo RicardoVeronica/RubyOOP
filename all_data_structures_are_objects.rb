@@ -1,0 +1,11 @@
+puts 1.class
+puts 1.0.class
+puts ''.class
+puts %r{/Regexp/}.class
+puts :symbol.class
+puts true.class
+puts false.class
+puts nil.class
+puts [].class
+puts {}.class
+puts (1..2).class
